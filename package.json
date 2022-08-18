@@ -5,7 +5,7 @@
   "scripts": {
     "start": "nodemon node index.js"
   },
-  "author": "Samsul Rijal",
+  "author": "Engkos Kostaman",
   "license": "ISC",
   "keywords": [],
   "description": "",
