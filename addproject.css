@@ -1,0 +1,17 @@
+.text-orange {
+    color: black !important;
+}
+
+
+
+nav {
+    height: 7vh;
+}
+
+.container-fluid {
+    height: 93vh;
+}
+
+.container-form {
+    width: 400px;
+}
